@@ -1,2 +1,2 @@
-# Lab-nr-3
+# Laboratoria
 description
