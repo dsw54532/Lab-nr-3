@@ -16,7 +16,7 @@ function logs {
 
 function clone {
     # Klonuje całe repozytorium do katalogu, w którym został uruchomiony skrypt
-    git clone https://github.com/spearroow/Podstawa-praca-z-GIT.git
+    git clone https://github.com/dsw54532/Lab-nr-3
 }
 
 function init {
